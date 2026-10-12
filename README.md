@@ -56,6 +56,6 @@ nexolog/
 
 ## Autor
 
-- Nome: _seu nome_
-- RA: _seu RA_
-- Curso / Polo: _seu curso_ — _seu polo_
+- Nome: Dalton José Neres
+- RA: 09065530
+- Curso / Polo: Análise e Desenvolvimento de Sistemas (ADS) | Francisco Beltrão
